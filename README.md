@@ -5,6 +5,6 @@
 
 ## Video Demo of the project
 
-<img src="./Demo/task-given-by-green-delta.gif" alt="app"/>
+<img src="./Demo/task-given-by-green-delta.gif" alt="task-demo-video" style="height:800px;"/>
 
 [Download the apk](https://drive.google.com/drive/folders/1TRFWlGvjVhVvh6miwvF3pnw9VhGWhUlU?usp=sharing)
